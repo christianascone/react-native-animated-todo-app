@@ -35,12 +35,16 @@ Run this command for checking current style:
 
 ```sh
 npx prettier --check .
+# or
+yarn run prettier-check
 ```
 
 And with this you can update files:
 
 ```sh
 npx prettier --write .
+# or
+yarn run prettier-write
 ```
 
 ---
