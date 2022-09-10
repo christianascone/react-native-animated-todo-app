@@ -7,19 +7,39 @@
 ## **:wrench: Developer usage**
 
 ### **Installation**
+
 ```sh
 yarn install
 ```
 
 ### Running
+
 ```sh
 yarn start
 ```
+
 or
+
 ```sh
 npx expo start
 ```
+
 ---
+
+### Development
+#### Prettier
+This project uses Prettier for code style.
+Run this command for checking current style:
+```sh
+prettier --check .
+```
+
+And with this you can update files:
+```sh
+prettier --write .
+```
+---
+
 ## **:handshake: Contributing**
 
 - Fork it!
@@ -42,7 +62,7 @@ Feel free to open issues or submit pull-requests to help me improving my work.
 _*Christian Ascone*_
 
 > You can follow me on
-[GitHub](https://github.com/christianascone)&nbsp;&middot;&nbsp;[GitLab](https://gitlab.com/christianascone)
+> [GitHub](https://github.com/christianascone)&nbsp;&middot;&nbsp;[GitLab](https://gitlab.com/christianascone)
 
 ---
 
