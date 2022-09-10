@@ -27,17 +27,22 @@ npx expo start
 ---
 
 ### Development
+
 #### Prettier
+
 This project uses Prettier for code style.
 Run this command for checking current style:
+
 ```sh
 npx prettier --check .
 ```
 
 And with this you can update files:
+
 ```sh
 npx prettier --write .
 ```
+
 ---
 
 ## **:handshake: Contributing**

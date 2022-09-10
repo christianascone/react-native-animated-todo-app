@@ -1076,6 +1076,11 @@
     "@babel/helper-validator-identifier" "^7.18.6"
     to-fast-properties "^2.0.0"
 
+"@christianascone/prettier-config-web@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@christianascone/prettier-config-web/-/prettier-config-web-1.0.0.tgz#938b13ca0283932b8da02178f63f4af97cd2b7aa"
+  integrity sha512-swAV2EERJ9xvvuD0ahAKdeI+UGWvK/ZGFyNW9qVAzyWt0nxht2yVuZU55wwE2UtoDXCUJMFx+e8VQ+dqGf5XmA==
+
 "@expo/bunyan@4.0.0", "@expo/bunyan@^4.0.0":
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/@expo/bunyan/-/bunyan-4.0.0.tgz#be0c1de943c7987a9fbd309ea0b1acd605890c7b"
