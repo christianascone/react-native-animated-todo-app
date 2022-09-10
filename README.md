@@ -31,12 +31,12 @@ npx expo start
 This project uses Prettier for code style.
 Run this command for checking current style:
 ```sh
-prettier --check .
+npx prettier --check .
 ```
 
 And with this you can update files:
 ```sh
-prettier --write .
+npx prettier --write .
 ```
 ---
 
