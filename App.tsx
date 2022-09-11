@@ -1,6 +1,11 @@
-import { StatusBar } from 'expo-status-bar'
-import { StyleSheet, Text, View } from 'react-native'
+import {StatusBar} from 'expo-status-bar'
+import {StyleSheet, Text, View} from 'react-native'
+import React from 'react'
 
+/**
+ * Main component for app bootstrap
+ * @return {function} The App component
+ */
 export default function App() {
   return (
     <View style={styles.container}>

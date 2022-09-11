@@ -25,11 +25,20 @@
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
-    "@christianascone/prettier-config-web": "^1.1.1",
+    "@christianascone/eslint-config": "^1.0.0",
+    "@christianascone/prettier-config-web": "^1.2.0",
     "@types/react-native": "^0.69.8",
+    "@typescript-eslint/eslint-plugin": "^5.36.2",
+    "@typescript-eslint/parser": "^5.36.2",
+    "eslint": "^8.23.0",
+    "eslint-plugin-react": "^7.31.8",
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3",
-    "prettier": "^2.7.1"
+    "prettier": "^2.7.1",
+    "typescript": "^4.8.3"
   },
-  "private": true
+  "private": true,
+  "repository": "git@github.com:christianascone/react-native-animated-todo-app.git",
+  "author": "Christian Ascone <ascone.christian@gmail.com>",
+  "license": "MIT"
 }
