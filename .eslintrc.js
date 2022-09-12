@@ -8,7 +8,8 @@ module.exports = {
     'eslint:recommended',
     'plugin:react/recommended',
     'plugin:@typescript-eslint/recommended',
-    '@christianascone/eslint-config'
+    '@christianascone/eslint-config',
+    'prettier'
   ],
   overrides: [],
   parser: '@typescript-eslint/parser',
